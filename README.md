@@ -1,2 +1,2 @@
 # codewars-contributions
-A miscellany of scripts to make the codewars world a better place.
+A Miscellany of Scripts to Make the Codewars World a Better Place
